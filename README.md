@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kavindu Salinda</h1>
+<div align="center">
+  <img 
+    src="https://github.com/KavinduSalinda/KavinduSalinda/blob/main/uwp3874909.jpeg" 
+    alt="Kavindu Salinda" 
+    style="width: 100%; max-width: 800px;"
+  />
 
- [![image alt text](https://github.com/KavinduSalinda/KavinduSalinda/blob/main/uwp3874909.jpeg)]
+  <h1>Hi 👋, I'm Kavindu Salinda</h1>
 
-<h3 align="center">A passionate full stack software engineer from Srilanka</h3>
+  <h3>A passionate full stack software engineer from Sri Lanka</h3>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusalinda&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusalinda" /> </p>
 
