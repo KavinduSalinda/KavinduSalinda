@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Salinda</h1>
 
  [![image alt text]
- (https://raw.githubusercontent.com/KavinduSalinda/KavinduSalinda/main/thumbnail.jpg)]
+ (https://github.com/KavinduSalinda/KavinduSalinda/blob/main/uwp3874909.jpeg)]
 
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
