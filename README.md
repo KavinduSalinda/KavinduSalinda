@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Salinda</h1>
+
+<img src="image url" alt="alt text" title="image Title" height="150"/>
+
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusalinda&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusalinda" /> </p>
