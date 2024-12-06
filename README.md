@@ -13,8 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindusalinda&label=Profile%20views&color=0e75b6&style=flat" alt="kavindusalinda" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindusalinda" alt="kavindusalinda" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **React, Django**
