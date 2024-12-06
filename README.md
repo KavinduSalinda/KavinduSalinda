@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/KavinduSalinda/KavinduSalinda/blob/main/uwp3874909.jpeg" 
     alt="Kavindu Salinda" 
-    style="width: 100%; max-width: 800px;"
+    style="width: 100%; max-width: 800px; position:absolute"
   />
 
   <h1>Hi 👋, I'm Kavindu Salinda</h1>
