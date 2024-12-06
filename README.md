@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Salinda</h1>
 
-<img src="image url" alt="alt text" title="image Title" height="150"/>
+[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/APOPm01BVrk)
 
 <h3 align="center">A passionate full stack software engineer from Srilanka</h3>
 
